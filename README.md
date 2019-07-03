@@ -21,5 +21,12 @@ teman" tinggal buat database dan Melakukan config di settings.py dan lakukan pro
 2. Method POST
 
    <img width="921" alt="DRF2" src="https://user-images.githubusercontent.com/22437935/60614207-710abe80-9e07-11e9-8653-617b1bc08362.png">
-Regards
-Michael.
+   
+3. With Postman (GET, POST) Method.
+
+   <img width="953" alt="DRF Postman GET" src="https://user-images.githubusercontent.com/22437935/60615580-7289b600-9e0a-11e9-9c83-73b0b6df9ae7.png">
+
+   <img width="953" alt="DRF Postman POST" src="https://user-images.githubusercontent.com/22437935/60615605-7f0e0e80-9e0a-11e9-8b73- eb7aa6de0710.png">
+------------------------------------------------------------------------------------------------------------
+
+Regards, Michael ^_^
