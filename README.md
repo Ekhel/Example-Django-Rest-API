@@ -1,6 +1,9 @@
 # Contoh Menggunakan DRF atau Django Rest Framework
 -----------------------------------------------------------------------------------------------------------------------------
 ### Persiapan
+
+Cek Video nya [disini](https://youtu.be/zd3rrhw_z0g)
+
 -----------------------------------------------------------------------------------------------------------------------------
 * Clone Project
 * Install django rest framework [Cek disini](https://www.django-rest-framework.org/)
